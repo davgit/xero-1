@@ -15,7 +15,7 @@ An interface for Xero Accounting API which includes the library written and main
 
 3. Go to System > Preferences to add your Xero Key and Xero Secret. To generate your keys please go to api.xero.com.
 
-4. Have a read of the [API](https://github.com/abocati/xero/wiki) to know how generate the keys for connecting to Xero.
+4. Have a read of the [WIKI](https://github.com/abocati/xero/wiki/Generating-keys) to know how generate the keys for connecting to Xero.
 
 ## Credits
 
