@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="xero" status="unreleased" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Xero Accounting</name>
+	<description>Adds Xero Accounting API for the Symphony CMS.</description>
+	<types>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="abocati" symphony="abocati">Andre Bocati</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1" date="unreleased" min="2.3" />
+	</releases>
+</extension>
