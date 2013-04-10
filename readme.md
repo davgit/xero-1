@@ -1,7 +1,7 @@
 # Xero Accounting 
 
 - Version: 0.2
-- Release Date: 13th Dec 2012
+- Release Date: 10th April 2013
 - Author: Andre Bocati
 - Requirements: Symphony 2.3
 
