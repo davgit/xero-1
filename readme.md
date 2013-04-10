@@ -1,6 +1,6 @@
 # Xero Accounting 
 
-- Version: 0.1
+- Version: 0.2
 - Release Date: 13th Dec 2012
 - Author: Andre Bocati
 - Requirements: Symphony 2.3
@@ -13,10 +13,11 @@ An interface for Xero Accounting API which includes the library written and main
 
 2. Enable the 'Xero' extension on the extensions page
 
-3. Go to System > Preferences to add your Xero Key and Xero Secret. To generate your keys please go to api.xero.com.
+3. Have a read of the [WIKI](https://github.com/abocati/xero/wiki/Generating-keys) to know how generate the keys for connecting to Xero.
 
-4. Have a read of the [WIKI](https://github.com/abocati/xero/wiki/
-Generating-keys) to know how generate the keys for connecting to Xero.
+4. Create your [Xero Application](https://api.xero.com/Application/List)
+
+5. Go to System > Preferences to add your Xero Key and Xero Secret from the Application recently created. 
 
 ## Helpfull functions
 - After you have installed the extension feel free to go to [Xero Settings](https://github.com/abocati/xeroSettings) and clone some helpful functions to send some data to Xero.
